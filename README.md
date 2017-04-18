@@ -1,1 +1,1 @@
-# Link web size: vonad.org
+# Link web size: http://vonad.org/android-rxandroid-with-retrofit2/
